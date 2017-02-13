@@ -10,6 +10,7 @@
 * Geometric Style
 * Bauhaus
 * scrabble
+*photography
 
 ## Content for Doodle
 
