@@ -2,22 +2,22 @@
 
 //Import
 
-@import '_google-homepage.scss'
+@import '_google-homepage.scss';
 
     
+
+
 body {
     background: #3fe0d4;
 }
 
-
 // First Frame
-img {
-    opacity: .5;
-    transition: opacity 3s;
+#line {
+    transform: scale(.5);
+    transition: transform .5s;
 }
 
 //Last Frame
-img:hover {
-    opacity: 1;
-    
+#line:hover {
+    transform: scale(1.5);
 }
