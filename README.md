@@ -1,16 +1,6 @@
 # google doodle
 
-## Brainstorm
-
-* Cars
-* Drifting
-* De Stijl
-* Art Nouveau
-* Art Deco
-* Geometric Style
-* Bauhaus
-* scrabble
-*photography
+* Art Deco Theme
 
 ## Content for Doodle
 
