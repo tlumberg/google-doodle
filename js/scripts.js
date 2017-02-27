@@ -15,3 +15,18 @@ console.log(numRand);
 
 //Show Images
 //$('img').attr('src', eval('img' + numRand) ); 
+
+$('#stage svg').hide();
+
+//click on button
+
+$('button').click(function() {
+    
+    
+    //hide circle
+    
+    
+    //show circle
+    $('#stage svg').show();
+    
+});
