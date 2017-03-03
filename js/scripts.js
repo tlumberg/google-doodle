@@ -20,4 +20,5 @@ console.log(randNum);
 
 //Get Random Body Class
 //Change Background Color
-$('body').addClass('bg' + randNum);
+$('#stage').addClass('bg' + randNum);
+

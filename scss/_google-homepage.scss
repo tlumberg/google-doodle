@@ -1,18 +1,14 @@
 /* Stage */
-$bg0 : #404040;
-$bg1 : black;
-$bg2 : ;
-
 
 #stage {
-    //background: #b7410e;
     height: 300px;
     width: 600px;
     overflow: auto;
     position: relative;
-
 }
-
+#stage:hover {
+    background: $bg2;
+}
 
 #stage #star {
     height: 100px;
