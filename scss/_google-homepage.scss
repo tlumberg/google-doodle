@@ -1,15 +1,24 @@
 /* Stage */
+$bg0 : #404040;
+$bg1 : black;
+$bg2 : ;
+
 
 #stage {
-    background: #404040;
+    //background: #b7410e;
     height: 300px;
     width: 600px;
     overflow: auto;
+    position: relative;
+
 }
+
 
 #stage #star {
     height: 100px;
     width: 100px;
+    
+    
 }
 
 
