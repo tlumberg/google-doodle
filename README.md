@@ -5,9 +5,10 @@
 
 ## Content for Doodle
 
-<img src="https://s-media-cache-ak0.pinimg.com/736x/75/10/f9/7510f97937e9dcb4509a255ccdbbbe6d.jpg" alt="">
+<img src="http://www.cristabel-darryl.com/wp-content/uploads/2016/01/Gatsby-ArtDeco-Background.png">
 
+<img src="https://s-media-cache-ak0.pinimg.com/originals/7f/8a/6c/7f8a6c89c4242f10fdcd176cae973a33.jpg">
 
-<img src="https://s-media-cache-ak0.pinimg.com/originals/68/ba/f2/68baf2cb240d527b08105911422caaa1.jpg" alt="">
+<img src="https://i.ytimg.com/vi/FdMX-537FBg/maxresdefault.jpg">
 
 https://www.britannica.com/art/Art-Deco 
