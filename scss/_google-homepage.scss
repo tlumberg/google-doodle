@@ -3,18 +3,21 @@
 #stage {
     height: 300px;
     width: 600px;
-    overflow: auto;
+    overflow: hidden;
     position: relative;
+    background: $bg0;
 }
 #stage:hover {
-    background: $bg2;
+    background: $bg1;
+}
+
+#doodle:hover {
+    transform: scale(1.5);
 }
 
 #stage #star {
     height: 100px;
     width: 100px;
-    
-    
 }
 
 
@@ -30,6 +33,11 @@ input {
     outline: none;
     line-height: 36px;
     width: 50%;
+    
+}
+
+input:focus {
+    background: #f2f2f2;
 }
 
 div {
@@ -50,4 +58,8 @@ button {
     font-weight: bold;
     padding: .5em 1em;
     text-align: center;
+}
+
+button:focus {
+    background-color: $bg0;
 }
